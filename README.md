@@ -60,8 +60,8 @@ Flash esp_code.ino using Arduino IDE with correct pins<br>
 ---
 ## 📂 Folder Structure
 SmartCabin/<br>
-├── static/              # CSS, JS files<br>
-├── templates/           # HTML files<br>
+├── static/ &nbsp;&nbsp;&nbsp;&nbsp;# CSS, JS files<br>
+├── templates/&nbsp;&nbsp;&nbsp# HTML files<br>
 ├── app.py               # Flask server<br>
 ├── esp_code.ino         # ESP32 embedded code<br>
 ├── firebase_config.json # Firebase credentials<br>
