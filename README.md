@@ -15,3 +15,21 @@ This project aims to develop a comprehensive holistic cabin environment monitori
 - 🤖 Machine Learning Model for Temperature Prediction
 
 ---
+## 🧱 Hardware Setup
+
+![Sensor Setup](./hardware/sensor_setup.jpg)
+![Final Working Output](./hardware/final_output.jpg)
+
+## 🖥️ Web Dashboard
+
+![Live Dashboard View](./screenshots/dashboard_live.png)
+
+---
+🧰 Tech Stack
+
+**Hardware**: ESP32, DHT11, MAX30100, IR Sensor, Fan, Buzzer
+**Languages**: Python, C++, HTML, CSS, JavaScript
+Backend: Flask
+Database: Firebase Realtime Database
+ML Model: Linear Regression (for temperature prediction)
+Web Hosting: Localhost / GitHub Pages
