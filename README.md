@@ -37,4 +37,4 @@ This project aims to develop a comprehensive holistic cabin environment monitori
 ---
 ## 🚀 Setup Instructions
 
-**1. Clone the Repository
+**1. Clone the Repository**
