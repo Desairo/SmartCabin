@@ -38,3 +38,32 @@ This project aims to develop a comprehensive holistic cabin environment monitori
 ## 🚀 Setup Instructions
 
 **1. Clone the Repository**
+git clone https://github.com/yourusername/holistic-cabin.git
+cd holistic-cabin
+
+**2. Hardware Setup**
+Connect DHT11 to ESP32 GPIOx<br>
+MAX30100 for HR/SpO2 to I2C pins<br>
+IR sensor to GPIOy<br>
+Fan/Buzzer to digital outputs<br>
+
+**3.Configure Firebase**
+Use your own firebase_config.json file
+
+**4.Install Flask and Requirements**
+pip install -r requirements.txt
+python app.py
+
+**5.Run on ESP32**
+Flash esp_code.ino using Arduino IDE with correct pins
+
+---
+## 📂 Folder Structure
+SmartCabin/
+├── static/              # CSS, JS files
+├── templates/           # HTML files
+├── app.py               # Flask server
+├── esp_code.ino         # ESP32 embedded code
+├── firebase_config.json # Firebase credentials
+├── model.pkl            # Trained ML model
+└── README.md
