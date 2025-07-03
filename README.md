@@ -27,7 +27,7 @@ This project aims to develop a comprehensive holistic cabin environment monitori
 ---
 🧰 Tech Stack
 
-**Hardware**: ESP32, DHT11, MAX30100, IR Sensor, Fan, Buzzer.
+**Hardware**: ESP32, DHT11, MAX30100, IR Sensor, Fan, Buzzer<br>
 **Languages**: Python, C++, HTML, CSS, JavaScript
 Backend: Flask
 Database: Firebase Realtime Database
