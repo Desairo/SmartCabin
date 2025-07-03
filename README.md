@@ -67,3 +67,9 @@ SmartCabin/<br>
 ├── firebase_config.json&nbsp;# Firebase credentials<br>
 ├── model.pkl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Trained ML model<br>
 └── README.md<br>
+
+---
+🌐 Firebase Integration
+All real-time sensor data is pushed to Firebase Realtime Database and fetched by the Flask server to display on the web dashboard and make predictions.
+
+---
