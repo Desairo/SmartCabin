@@ -25,11 +25,16 @@ This project aims to develop a comprehensive holistic cabin environment monitori
 ![Live Dashboard View](./screenshots/dashboard_live.png)
 
 ---
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-**Hardware**: ESP32, DHT11, MAX30100, IR Sensor, Fan, Buzzer<br>
-**Languages**: Python, C++, HTML, CSS, JavaScript
-Backend: Flask
-Database: Firebase Realtime Database
-ML Model: Linear Regression (for temperature prediction)
-Web Hosting: Localhost / GitHub Pages
+**Hardware**: ESP32, DHT11, MAX30100, IR Sensor, Fan, Buzzer, Eye Blink Sensor<br>
+**Languages**: Python, C++, HTML, CSS, JavaScript<br>
+**Backend**: Flask<br>
+**Database**: Firebase Realtime Database<br>
+**ML Model**: Linear Regression (for temperature prediction)<br>
+**Web Hosting**: Localhost
+
+---
+## 🚀 Setup Instructions
+
+**1. Clone the Repository
