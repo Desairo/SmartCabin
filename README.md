@@ -69,7 +69,7 @@ SmartCabin/<br>
 └── README.md<br>
 
 ---
-🌐 Firebase Integration
+## 🌐 Firebase Integration
 All real-time sensor data is pushed to Firebase Realtime Database and fetched by the Flask server to display on the web dashboard and make predictions.
 
 ---
