@@ -73,3 +73,7 @@ SmartCabin/<br>
 All real-time sensor data is pushed to Firebase Realtime Database and fetched by the Flask server to display on the web dashboard and make predictions.
 
 ---
+## 🔍 ML Prediction
+**Model**: Linear Regression<br>
+**Input**: Temp, Humidity, Previous Temp<br>
+**Output**: Predicted Temp → used for Fan Speed Control<br>
