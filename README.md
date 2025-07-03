@@ -64,6 +64,6 @@ SmartCabin/<br>
 ├── templates/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# HTML files<br>
 ├── app.py&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Flask server<br>
 ├── esp_code.ino&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# ESP32 embedded code<br>
-├── firebase_config.json&nbsp;# Firebase credentials<br>
+├── firebase_config.json# Firebase credentials<br>
 ├── model.pkl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Trained ML model<br>
 └── README.md<br>
