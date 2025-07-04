@@ -50,7 +50,7 @@ Fan/Buzzer to digital outputs<br>
 **3.Configure Firebase**<br>
 Use your own firebase_config.json file<br>
 
-**4.Install Flask and Requirements<br>
+**4.Install Flask and Requirements**<br>
 pip install -r requirements.txt<br>
 python app.py<br>
 
