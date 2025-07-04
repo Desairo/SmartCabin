@@ -14,7 +14,7 @@ scaler = joblib.load("scaler.pkl")  # Load the saved scaler
 # Initialize Firebase (Ensure you have your service account JSON file)
 cred = credentials.Certificate("firebase_credentials.json")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://holistic-cabin-001.firebaseio.com'
+    'databaseURL': 'https://your-url.firebaseio.com'
 })
 
 @app.route('/')
