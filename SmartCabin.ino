@@ -21,7 +21,7 @@ FirebaseData streamData;
 DHT dht(DHTPIN, DHTTYPE);
 
 #define WIFI_SSID "Your-WiFi-SSID"              //Wifi host name 
-#define WIFI_PASSWORD "Password for it"       //password for host wifi
+#define WIFI_PASSWORD "Password"               //password for host wifi
 
 #define buzzer 32
 #define ir 26
