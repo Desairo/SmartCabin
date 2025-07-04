@@ -18,6 +18,7 @@ __pycache__/
 
 # Firebase credentials (keep secrets out!)
 firebase_config.json
+firebase_credentials.json
 
 # Model and scaler backups (optional if not sharing)
 *.pkl
