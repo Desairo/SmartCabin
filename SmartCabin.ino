@@ -8,8 +8,8 @@
 
 #define REPORTING_PERIOD_MS 1000
 
-#define FIREBASE_HOST "https://holisticcabin-7603e-default-rtdb.asia-southeast1.firebasedatabase.app/"         //Host name on firebase
-#define FIREBASE_AUTH "AIzaSyA18QAMA2I3CpWu_0mY5L4QAWqsDTU_bS8"                                                //Api-Key
+#define FIREBASE_HOST "your-app.firebaseio.com"
+#define FIREBASE_AUTH "your-API-key"
 
 FirebaseData firebaseData;             //Class and instance defined
 FirebaseAuth auth;
@@ -20,8 +20,8 @@ FirebaseData streamData;
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
 
-#define WIFI_SSID "Desai"              //Wifi host name 
-#define WIFI_PASSWORD "iiyw8221"       //password for host wifi
+#define WIFI_SSID "Your-WiFi-SSID"              //Wifi host name 
+#define WIFI_PASSWORD "Password for it"       //password for host wifi
 
 #define buzzer 32
 #define ir 26
