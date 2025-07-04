@@ -77,3 +77,6 @@ All real-time sensor data is pushed to Firebase Realtime Database and fetched by
 **Model**: Linear Regression<br>
 **Input** : Temp, Humidity, Previous Temp<br>
 **Output**: Predicted Temp → used for Fan Speed Control<br>
+
+---
+⚠️ This repository previously contained Firebase API keys which have since been removed and revoked. Please use your own `firebase_credentials.json` file and do not commit secrets.
