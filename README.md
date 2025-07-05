@@ -22,14 +22,14 @@ This project aims to develop a comprehensive holistic cabin environment monitori
   <img src="assets/SmartCabin2.jpg" width="400"/>
   <img src="assets/SmartCabin3.jpg" width="400"/>
 </p>
-![Final Working Output](./SmartCabin1.jpg)
+![Final Working Output](./assets/SmartCabin1.jpg)
 
 ## 🖥️ Web Dashboard
 
 ![Live Dashboard View]
 <p align="center">
-  <img src="SmartCabin4.png" width="400"/>
-  <img src="SmartCabin5.png" width="400"/>
+  <img src="assets/SmartCabin4.png" width="400"/>
+  <img src="assets/SmartCabin5.png" width="400"/>
 </p>
 
 ---
