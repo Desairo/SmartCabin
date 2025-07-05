@@ -31,7 +31,6 @@ This project aims to develop a comprehensive holistic cabin environment monitori
 
 ## 🖥️ Web Dashboard
 
-![Live Dashboard View]
 <p align="center">
   <img src="assets/SmartCabin4.png" width="400"/>
   <img src="assets/SmartCabin5.png" width="400"/>
