@@ -19,17 +19,20 @@ This project aims to develop a comprehensive holistic cabin environment monitori
 
 ![Sensor Setup]
 <p align="center">
-  <img src="assets/SmartCabin2.jpg" width="400"/>
-  <img src="assets/SmartCabin3.jpg" width="400"/>
+  <img src="assets/SmartCabin2.jpg" width="400" height="250px" style="vertical-align:middle;/>
+  <img src="assets/SmartCabin3.jpg" width="400" height="250px" style="vertical-align:middle;/>
 </p>
-![Final Working Output](./assets/SmartCabin1.jpg)
+![Final Working Output]
+<p align="center">
+  <img src="assets/SmartCabin1.jpg">
+</p>
 
 ## 🖥️ Web Dashboard
 
 ![Live Dashboard View]
 <p align="center">
-  <img src="assets/SmartCabin4.png" width="400"/>
-  <img src="assets/SmartCabin5.png" width="400"/>
+  <img src="assets/SmartCabin4.png" width="400" height="250px" style="vertical-align:middle;/>
+  <img src="assets/SmartCabin5.png" width="400" height="250px" style="vertical-align:middle;/>
 </p>
 
 ---
