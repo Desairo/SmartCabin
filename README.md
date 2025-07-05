@@ -51,8 +51,7 @@ This project aims to develop a comprehensive holistic cabin environment monitori
 ## 🚀 Setup Instructions
 
 **1. Clone the Repository**<br>
-git clone https://github.com/yourusername/holistic-cabin.git<br>
-cd holistic-cabin<br>
+git clone https://github.com/Desairo/SmartCabin.git<br>
 
 **2. Hardware Setup**<br>
 Connect DHT11 to ESP32 GPIOx<br>
@@ -68,7 +67,7 @@ pip install -r requirements.txt<br>
 python app.py<br>
 
 **5.Run on ESP32**<br>
-Flash esp_code.ino using Arduino IDE with correct pins<br>
+Flash SmartCabin.ino using Arduino IDE with correct pins<br>
 
 ---
 ## 📂 Folder Structure
